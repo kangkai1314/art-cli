@@ -1,0 +1,19 @@
+{
+  "name": "art-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^5.0.0",
+    "commander": "^8.3.0",
+    "fs": "0.0.1-security",
+    "inquire": "^0.4.8",
+    "inquirer": "^8.2.0"
+  }
+}
